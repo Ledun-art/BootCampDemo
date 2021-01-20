@@ -1,0 +1,16 @@
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\BootCampDemo.exe
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\BootCampDemo.deps.json
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\BootCampDemo.runtimeconfig.json
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\BootCampDemo.runtimeconfig.dev.json
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\BootCampDemo.dll
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\ref\BootCampDemo.dll
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\bin\Debug\net5.0\BootCampDemo.pdb
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.csprojAssemblyReference.cache
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.AssemblyInfoInputs.cache
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.AssemblyInfo.cs
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.csproj.CoreCompileInputs.cache
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.dll
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\ref\BootCampDemo.dll
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.pdb
+C:\Users\LEDUN\RiderProjects\BootCampDemo\BootCampDemo\obj\Debug\net5.0\BootCampDemo.genruntimeconfig.cache
